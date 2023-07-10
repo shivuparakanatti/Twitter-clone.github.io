@@ -20,7 +20,6 @@ function Items({ currentItems }) {
         })
 
     },[])
- 
    
   return (
     <div className="flex flex-row  justify-evenly  ">
