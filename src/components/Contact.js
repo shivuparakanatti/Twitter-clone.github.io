@@ -6,6 +6,7 @@ export default function Contact() {
   return (
     <form className="flex items-center justify-center my-12 flex-col gap-4">
       <div>
+        
       <div>
         <div className="mb-2 block">
           <Label
